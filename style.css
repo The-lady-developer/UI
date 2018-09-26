@@ -1,0 +1,59 @@
+
+.upper h2{
+    margin:0; 
+    background-color: #00FF00;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100;
+    padding: 0em;
+    font-weight: bold;
+    overflow: hidden;
+    line-height: 98px;
+    padding-bottom: 48px;
+}
+
+body{
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHkA1wMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AmYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z")
+}
+
+.intro h2{
+    text-align: center;
+    line-break: loose;
+    color: white;
+}
+hr{
+    
+      margin: 40px auto 30px;
+      padding: 0;
+      max-width: 112px;
+      border: 0;
+      border-top: solid 1px #00FF00; 
+      text-align:center;
+      height: 1px;
+}
+p{
+    text-align: center;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+}
+
+form{
+    text-align: center;
+    font-weight: bold;;
+  line-height: 1.3;
+  color: white;
+  font-size: large;
+}
+button {
+    background: #00FF00;
+     width: 12%;
+    height:3em;
+    font-size:16px;
+   margin-left: 28%;
+    margin-right: 25%;
+    margin-top: 3%;
+  }
+  
+  
